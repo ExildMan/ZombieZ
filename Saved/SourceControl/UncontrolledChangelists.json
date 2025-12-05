@@ -6,8 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
-				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
+				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/ST_Weapon_Struct.uasset",
+				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/E_FireType.uasset",
+				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset",
+				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/Input/IMC_MouseLook.uasset",
+				"F:/Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset"
 			]
 		}
 	]
