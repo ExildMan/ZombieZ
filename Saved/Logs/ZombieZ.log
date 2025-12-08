@@ -1767,3 +1767,864 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.08-08.35.43:551][ 27]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.08-08.35.43:551][ 27]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
 [2025.12.08-08.35.45:788][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.08-08.39.34:736][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9876.280273
+[2025.12.08-08.39.35:730][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-08.39.35:730][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9876.947266, Update Interval: 358.102966
+[2025.12.08-08.46.25:578][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10287.167969
+[2025.12.08-08.46.25:855][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-08.46.25:855][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10287.433594, Update Interval: 301.605896
+[2025.12.08-08.52.08:385][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10629.993164
+[2025.12.08-08.52.09:283][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-08.52.09:283][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10630.872070, Update Interval: 331.368744
+[2025.12.08-08.56.18:582][682]LogDerivedDataCache: C:/Users/kumad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.08-08.58.28:064][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11009.692383
+[2025.12.08-08.58.28:941][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-08.58.28:941][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11010.554688, Update Interval: 308.789337
+[2025.12.08-09.04.28:972][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11370.661133
+[2025.12.08-09.04.29:878][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.04.29:878][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11371.559570, Update Interval: 301.576599
+[2025.12.08-09.10.08:774][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11710.539062
+[2025.12.08-09.10.09:658][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.10.09:658][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11711.395508, Update Interval: 349.837341
+[2025.12.08-09.16.30:062][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12091.920898
+[2025.12.08-09.16.30:943][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.16.30:943][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12092.786133, Update Interval: 326.472351
+[2025.12.08-09.22.30:474][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12452.375977
+[2025.12.08-09.22.31:363][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.22.31:363][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12453.246094, Update Interval: 349.897766
+[2025.12.08-09.29.10:592][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12852.577148
+[2025.12.08-09.29.11:446][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.29.11:446][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12853.416992, Update Interval: 321.456940
+[2025.12.08-09.35.03:225][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13205.238281
+[2025.12.08-09.35.04:104][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.35.04:104][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13206.103516, Update Interval: 348.963898
+[2025.12.08-09.40.59:365][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.08-09.41.27:307][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.08-09.41.27:310][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.027
+[2025.12.08-09.41.27:311][464]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-09.41.27:391][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-09.41.27:391][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-09.41.27:425][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2025.12.08-09.41.27:425][464]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter_Auto4714BCD07481E16D728D79D9EA77C18D7.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2025.12.08-09.41.27:426][464]LogFileHelpers: Auto-saving content packages took 0.116
+[2025.12.08-09.41.48:335][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13610.383789
+[2025.12.08-09.41.50:004][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.41.50:004][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13611.715820, Update Interval: 358.948944
+[2025.12.08-09.42.03:130][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.08-09.43.38:450][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.12.08-09.43.39:259][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-09.43.39:295][ 91]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-09.43.39:342][ 91]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-09.43.39:342][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-09.43.39:376][ 91]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-09.43.39:377][ 91]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter703437EE4EBAF21ECB4519B2CC63554A.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-09.43.39:386][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.121 ms (total: 1.14 sec)
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: Enabled validators:
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-09.43.39:422][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-09.43.39:422][ 91]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-09.45.09:168][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.08-09.46.21:557][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.12.08-09.48.24:461][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14006.533203
+[2025.12.08-09.48.26:128][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.48.26:128][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14007.866211, Update Interval: 331.138031
+[2025.12.08-09.51.27:860][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.08-09.51.27:862][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.034
+[2025.12.08-09.51.27:862][305]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-09.51.27:942][305]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-09.51.27:942][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-09.51.27:978][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2025.12.08-09.51.27:978][305]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter_Auto543605D464FE6D95792366DB7408A4220.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2025.12.08-09.51.27:979][305]LogFileHelpers: Auto-saving content packages took 0.117
+[2025.12.08-09.54.54:825][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14396.887695
+[2025.12.08-09.54.56:491][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.54.56:491][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14398.221680, Update Interval: 346.772064
+[2025.12.08-09.56.18:582][178]LogDerivedDataCache: C:/Users/kumad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.08-10.01.39:119][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14801.147461
+[2025.12.08-10.01.40:803][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.01.40:803][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14802.507812, Update Interval: 345.102081
+[2025.12.08-10.01.49:515][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.08-10.01.49:517][162]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.031
+[2025.12.08-10.01.49:518][162]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-10.01.49:600][162]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-10.01.49:600][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-10.01.49:636][162]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2025.12.08-10.01.49:636][162]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter_Auto6830BBEF840A91EF98A79B0820DBB85E3.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2025.12.08-10.01.49:637][162]LogFileHelpers: Auto-saving content packages took 0.120
+[2025.12.08-10.08.09:630][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15191.667969
+[2025.12.08-10.08.11:015][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.08.11:015][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15192.718750, Update Interval: 347.440430
+[2025.12.08-10.11.50:124][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.12.08-10.11.50:126][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.030
+[2025.12.08-10.11.50:126][253]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-10.11.50:259][253]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-10.11.50:260][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-10.11.50:320][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2025.12.08-10.11.50:320][253]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter_Auto7C5A8383645361F4032703EBE25FA7230.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2025.12.08-10.11.50:322][253]LogFileHelpers: Auto-saving content packages took 0.196
+[2025.12.08-10.14.40:731][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15582.756836
+[2025.12.08-10.14.42:384][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.14.42:384][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15584.082031, Update Interval: 332.688995
+[2025.12.08-10.21.00:395][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15962.440430
+[2025.12.08-10.21.02:062][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.21.02:062][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15963.770508, Update Interval: 310.219421
+[2025.12.08-10.27.11:844][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16333.895508
+[2025.12.08-10.27.13:511][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.27.13:511][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16335.221680, Update Interval: 312.394775
+[2025.12.08-10.33.25:880][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16707.980469
+[2025.12.08-10.33.27:546][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.33.27:546][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16709.316406, Update Interval: 357.824646
+[2025.12.08-10.40.11:943][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17114.052734
+[2025.12.08-10.40.13:610][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.40.13:610][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17115.386719, Update Interval: 334.748993
+[2025.12.08-10.46.37:651][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17499.798828
+[2025.12.08-10.46.39:317][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.46.39:317][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17501.132812, Update Interval: 339.656372
+[2025.12.08-10.52.54:366][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17876.541016
+[2025.12.08-10.52.56:041][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.52.56:041][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17877.875000, Update Interval: 316.370117
+[2025.12.08-10.56.18:583][ 49]LogDerivedDataCache: C:/Users/kumad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.08-10.58.53:410][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18235.636719
+[2025.12.08-10.58.55:078][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-10.58.55:078][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18236.970703, Update Interval: 333.428741
+[2025.12.08-11.05.13:003][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18613.851562
+[2025.12.08-11.05.13:828][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-11.05.13:828][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18614.621094, Update Interval: 309.637146
+[2025.12.08-11.07.46:676][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.08-11.07.46:678][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.030
+[2025.12.08-11.07.46:678][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.07.46:754][  8]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.07.46:754][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.07.46:794][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2025.12.08-11.07.46:795][  8]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter_Auto8C00E7E2342EAAD3C896F3FA43555CFCE.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2025.12.08-11.07.46:795][  8]LogFileHelpers: Auto-saving content packages took 0.118
+[2025.12.08-11.08.35:790][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.08-11.08.52:298][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.08.52:333][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.08.52:376][182]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.08.52:376][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.08.52:418][182]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.08.52:418][182]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter5111D30142CF603B4F75A1AA487E22E2.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.08.52:431][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.246 ms (total: 1.28 sec)
+[2025.12.08-11.08.52:462][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.08.52:462][182]LogContentValidation: Enabled validators:
+[2025.12.08-11.08.52:462][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.08.52:462][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.08.52:462][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.08.52:462][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.08.52:463][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.08.52:463][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.08.52:463][182]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.10.19:329][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.12.08-11.11.03:868][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18960.830078
+[2025.12.08-11.11.05:537][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-11.11.05:537][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18962.162109, Update Interval: 327.072968
+[2025.12.08-11.12.25:162][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.12.08-11.12.25:985][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.12.26:020][ 59]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.12.26:059][ 59]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.12.26:059][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.12.26:102][ 59]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.12.26:103][ 59]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacterC4E17BAD474560394C912AA389B9289E.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.12.26:115][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.166 ms (total: 1.41 sec)
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: Enabled validators:
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.12.26:145][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.12.26:145][ 59]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.12.40:626][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.08-11.14.15:884][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.08-11.14.41:883][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.08-11.14.43:369][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.14.43:406][365]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.14.43:444][365]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.14.43:444][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.14.43:487][365]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.14.43:487][365]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter984D3A9C4703FEE01D1A2480FDB84879.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.14.43:500][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.896 ms (total: 1.54 sec)
+[2025.12.08-11.14.43:537][365]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.14.43:537][365]LogContentValidation: Enabled validators:
+[2025.12.08-11.14.43:537][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.14.43:537][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.14.43:537][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.14.43:537][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.14.43:537][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.14.43:537][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.14.43:538][365]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.15.01:506][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.15.01:538][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.15.01:538][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.15.01:538][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.15.01:539][305]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.15.01:539][305]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTableCD7A5E434D1EB89FDDEA2795C4A37789.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.15.01:549][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.861 ms (total: 1.58 sec)
+[2025.12.08-11.15.01:577][305]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.15.01:577][305]LogContentValidation: Enabled validators:
+[2025.12.08-11.15.01:577][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.15.01:577][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.15.01:577][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.15.01:577][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.15.01:577][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.15.01:577][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.15.01:577][305]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.15.08:513][496]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.15.08:519][496]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.15.08:519][496]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.15.08:519][496]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 671 us (total: 2.888 ms)
+[2025.12.08-11.15.08:520][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.15.08:520][496]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.15.08:526][496]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.15.08:527][496]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.282 ms (total: 5.326 ms)
+[2025.12.08-11.15.08:527][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007131s)
+[2025.12.08-11.15.08:527][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.007157s)
+[2025.12.08-11.15.08:552][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.08-11.15.08:554][496]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.15.08:557][496]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.15.08:557][496]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.15.08:557][496]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.15.08:557][496]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.15.08:558][496]LogWorldPartition: Display: WorldPartition initialize took 1.582 ms (total: 176.381 ms)
+[2025.12.08-11.15.08:558][496]LogPlayLevel: PIE: World Init took: (0.003404s)
+[2025.12.08-11.15.08:559][496]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.15.08:559][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.15.08:559][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.15.08:559][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.15.08:559][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.15.08:559][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.15.08:562][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.15.08:584][496]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.15.08:584][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.15.08:584][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.15.08:584][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.15.08:585][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.08-11.15.08:585][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.08-11.15.08:587][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.08-11.15.08:587][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.08-11.15.08:587][496]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.08-11.15.08:587][496]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.15.08:587][496]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.08-11.15.08:611][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.15.08:611][496]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.15.08:615][496]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.45.08
+[2025.12.08-11.15.08:616][496]LogWorld: Bringing up level for play took: 0.003286
+[2025.12.08-11.15.08:618][496]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.12.08-11.15.08:624][496]PIE: Server logged in
+[2025.12.08-11.15.08:626][496]PIE: Play in editor total start time 0.108 seconds.
+[2025.12.08-11.15.08:683][497]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.15.16:656][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.15.16:656][ 94]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.15.16:658][ 94]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.15.16:686][ 94]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.15.16:687][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.15.16:687][ 94]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.15.16:688][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.15.16:694][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.15.16:719][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-11.15.16:719][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.08-11.15.16:719][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.12.08-11.15.16:721][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.12.08-11.15.16:731][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.08-11.15.16:787][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.12.08-11.15.17:779][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.15.17:811][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.15.17:811][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.15.17:851][201]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.15.17:851][201]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter11A3FC9147F27F432FFE13AC2CD93B80.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.15.17:867][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.670 ms (total: 1.67 sec)
+[2025.12.08-11.15.17:910][201]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.15.17:910][201]LogContentValidation: Enabled validators:
+[2025.12.08-11.15.17:910][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.15.17:910][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.15.17:910][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.15.17:910][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.15.17:910][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.15.17:910][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.15.17:911][201]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.15.30:702][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.15.30:733][842]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.15.30:733][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.15.30:733][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.15.30:734][842]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.15.30:734][842]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTable6B16A55843213CA1B5474F96BC3AF8D7.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.15.30:743][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.823 ms (total: 1.71 sec)
+[2025.12.08-11.15.30:785][842]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.15.30:785][842]LogContentValidation: Enabled validators:
+[2025.12.08-11.15.30:785][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.15.30:785][842]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.15.30:785][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.15.30:785][842]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.15.30:785][842]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.15.30:785][842]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.15.30:785][842]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.15.32:389][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.15.32:395][ 16]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.15.32:395][ 16]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.15.32:396][ 16]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 727 us (total: 3.616 ms)
+[2025.12.08-11.15.32:396][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.15.32:396][ 16]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.15.32:402][ 16]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.15.32:403][ 16]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.335 ms (total: 6.661 ms)
+[2025.12.08-11.15.32:403][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007055s)
+[2025.12.08-11.15.32:403][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.007103s)
+[2025.12.08-11.15.32:427][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.12.08-11.15.32:429][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.15.32:430][ 16]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.15.32:430][ 16]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.15.32:430][ 16]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.15.32:430][ 16]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.15.32:431][ 16]LogWorldPartition: Display: WorldPartition initialize took 1.653 ms (total: 178.034 ms)
+[2025.12.08-11.15.32:431][ 16]LogPlayLevel: PIE: World Init took: (0.003321s)
+[2025.12.08-11.15.32:433][ 16]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.15.32:433][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.15.32:433][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.15.32:433][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.15.32:433][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.15.32:433][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.15.32:435][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.15.32:458][ 16]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.15.32:458][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.15.32:458][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.15.32:458][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.15.32:458][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.08-11.15.32:458][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.08-11.15.32:462][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.08-11.15.32:462][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.08-11.15.32:462][ 16]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.08-11.15.32:462][ 16]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.15.32:462][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.08-11.15.32:485][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.15.32:485][ 16]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.15.32:489][ 16]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.45.32
+[2025.12.08-11.15.32:490][ 16]LogWorld: Bringing up level for play took: 0.003801
+[2025.12.08-11.15.32:493][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.12.08-11.15.32:499][ 16]PIE: Server logged in
+[2025.12.08-11.15.32:501][ 16]PIE: Play in editor total start time 0.106 seconds.
+[2025.12.08-11.15.32:563][ 17]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.15.42:404][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.15.42:404][775]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.15.42:405][775]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.15.42:422][775]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.15.42:423][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.15.42:423][775]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.15.42:424][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.15.42:429][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.15.42:453][775]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.08-11.15.42:453][775]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.08-11.15.42:456][775]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.08-11.15.42:464][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.08-11.15.42:519][776]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.12.08-11.15.44:035][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.15.44:074][936]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.15.44:074][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.15.44:113][936]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.15.44:113][936]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacterC5494533490E7F1349477785DB2C248A.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.15.44:126][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.712 ms (total: 1.80 sec)
+[2025.12.08-11.15.44:164][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.15.44:164][936]LogContentValidation: Enabled validators:
+[2025.12.08-11.15.44:164][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.15.44:164][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.15.44:164][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.15.44:164][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.15.44:164][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.15.44:164][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.15.44:164][936]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.15.55:347][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.15.55:387][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.15.55:387][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.15.55:387][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.15.55:388][580]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.15.55:388][580]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTable06126F2D4F96A131C8F5EA89F8A78E49.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.15.55:400][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.284 ms (total: 1.85 sec)
+[2025.12.08-11.15.55:433][580]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.15.55:433][580]LogContentValidation: Enabled validators:
+[2025.12.08-11.15.55:433][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.15.55:433][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.15.55:433][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.15.55:434][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.15.55:434][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.15.55:434][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.15.55:434][580]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.15.55:518][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.15.55:551][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.15.55:551][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.15.55:551][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.15.55:551][589]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.15.55:553][589]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTableB8136B1F4C00FD7AD42E28B2245FB2A2.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.15.55:563][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.389 ms (total: 1.90 sec)
+[2025.12.08-11.15.55:598][589]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.15.55:598][589]LogContentValidation: Enabled validators:
+[2025.12.08-11.15.55:598][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.15.55:598][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.15.55:598][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.15.55:598][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.15.55:598][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.15.55:598][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.15.55:598][589]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.15.58:223][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.15.58:229][880]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.15.58:229][880]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.15.58:231][880]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 648 us (total: 4.264 ms)
+[2025.12.08-11.15.58:231][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.15.58:231][880]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.15.58:236][880]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.15.58:237][880]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.274 ms (total: 7.936 ms)
+[2025.12.08-11.15.58:237][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007063s)
+[2025.12.08-11.15.58:237][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.007087s)
+[2025.12.08-11.15.58:261][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.08-11.15.58:263][880]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.15.58:264][880]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.15.58:264][880]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.15.58:264][880]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.15.58:264][880]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.15.58:265][880]LogWorldPartition: Display: WorldPartition initialize took 1.546 ms (total: 179.581 ms)
+[2025.12.08-11.15.58:265][880]LogPlayLevel: PIE: World Init took: (0.003182s)
+[2025.12.08-11.15.58:267][880]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.15.58:267][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.15.58:267][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.15.58:267][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.15.58:267][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.15.58:267][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.15.58:269][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.15.58:291][880]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.15.58:292][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.15.58:292][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.15.58:292][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.15.58:292][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.08-11.15.58:292][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.08-11.15.58:295][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.08-11.15.58:295][880]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.08-11.15.58:295][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.08-11.15.58:295][880]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.15.58:295][880]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.08-11.15.58:318][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.15.58:318][880]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.15.58:321][880]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.45.58
+[2025.12.08-11.15.58:321][880]LogWorld: Bringing up level for play took: 0.003284
+[2025.12.08-11.15.58:324][880]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.12.08-11.15.58:331][880]PIE: Server logged in
+[2025.12.08-11.15.58:334][880]PIE: Play in editor total start time 0.104 seconds.
+[2025.12.08-11.15.58:398][881]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.16.01:375][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.16.01:375][100]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.16.01:376][100]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.16.01:390][100]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.16.01:390][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.16.01:390][100]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.16.01:391][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.16.01:397][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.16.01:422][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.08-11.16.01:422][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.08-11.16.01:424][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.08-11.16.01:431][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.12.08-11.16.01:488][101]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.12.08-11.16.31:542][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.16.31:573][561]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.16.31:573][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.16.31:573][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.16.31:575][561]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.16.31:575][561]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTableDD914CAC48B2F9AF7078A48F26832AB6.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.16.31:583][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.924 ms (total: 1.94 sec)
+[2025.12.08-11.16.31:618][561]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.16.31:618][561]LogContentValidation: Enabled validators:
+[2025.12.08-11.16.31:618][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.16.31:618][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.16.31:618][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.16.31:618][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.16.31:618][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.16.31:618][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.16.31:618][561]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.16.59:690][702]LogEditorTransaction: Undo Break Pin Links
+[2025.12.08-11.17.10:718][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19323.417969
+[2025.12.08-11.17.12:393][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-11.17.12:393][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19324.753906, Update Interval: 322.920013
+[2025.12.08-11.17.21:136][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.08-11.17.42:217][963]LogEditorTransaction: Undo Create Pin Link
+[2025.12.08-11.18.31:073][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.12.08-11.18.31:076][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.030
+[2025.12.08-11.18.31:076][921]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.18.31:153][921]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.18.31:153][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.18.31:195][921]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2025.12.08-11.18.31:196][921]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter_Auto9930E90164E96FC49AB4D66B66058F52D.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2025.12.08-11.18.31:196][921]LogFileHelpers: Auto-saving content packages took 0.121
+[2025.12.08-11.19.13:934][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.08-11.19.14:981][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.19.14:991][ 23]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.19.14:991][ 23]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.19.14:991][ 23]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 712 us (total: 4.977 ms)
+[2025.12.08-11.19.14:991][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.19.14:991][ 23]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.19.14:997][ 23]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.19.14:999][ 23]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.345 ms (total: 9.281 ms)
+[2025.12.08-11.19.14:999][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006948s)
+[2025.12.08-11.19.14:999][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.006974s)
+[2025.12.08-11.19.15:023][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.08-11.19.15:025][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.19.15:027][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.19.15:027][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.19.15:027][ 23]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.19.15:027][ 23]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.19.15:028][ 23]LogWorldPartition: Display: WorldPartition initialize took 1.534 ms (total: 181.115 ms)
+[2025.12.08-11.19.15:028][ 23]LogPlayLevel: PIE: World Init took: (0.003275s)
+[2025.12.08-11.19.15:029][ 23]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.19.15:029][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.19.15:029][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.19.15:029][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.19.15:029][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.19.15:029][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.19.15:032][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.19.15:054][ 23]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.19.15:054][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.19.15:054][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.19.15:054][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.19.15:055][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.08-11.19.15:055][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.08-11.19.15:057][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.08-11.19.15:057][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.08-11.19.15:057][ 23]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.08-11.19.15:057][ 23]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.19.15:057][ 23]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.08-11.19.15:081][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.19.15:081][ 23]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.19.15:085][ 23]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.49.15
+[2025.12.08-11.19.15:085][ 23]LogWorld: Bringing up level for play took: 0.003928
+[2025.12.08-11.19.15:088][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.12.08-11.19.15:093][ 23]PIE: Server logged in
+[2025.12.08-11.19.15:094][ 23]PIE: Play in editor total start time 0.104 seconds.
+[2025.12.08-11.19.15:156][ 24]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.19.20:473][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.19.20:473][410]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.19.20:474][410]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.19.20:498][410]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.19.20:501][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.19.20:501][410]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.19.20:505][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.19.20:521][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.19.20:559][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-11.19.20:559][410]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.08-11.19.20:559][410]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.08-11.19.20:562][410]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.08-11.19.20:573][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.12.08-11.19.20:596][411]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.12.08-11.19.21:499][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.19.21:537][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.19.21:586][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.19.21:586][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.19.21:628][518]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.19.21:629][518]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacter66F10E9845D8268965EACC85E712BEDE.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.19.21:642][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.700 ms (total: 2.08 sec)
+[2025.12.08-11.19.21:683][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.19.21:683][518]LogContentValidation: Enabled validators:
+[2025.12.08-11.19.21:683][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.19.21:683][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.19.21:683][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.19.21:683][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.19.21:683][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.19.21:683][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.19.21:684][518]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.19.51:101][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.19.51:138][ 76]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.19.51:138][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.19.51:138][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.19.51:140][ 76]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.19.51:140][ 76]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTableAC91FD804DDC1DB2938232AEFC0966ED.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.19.51:149][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.725 ms (total: 2.13 sec)
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: Enabled validators:
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.19.51:188][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.19.51:188][ 76]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.19.53:608][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.19.53:613][362]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.19.53:614][362]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.19.53:614][362]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 686 us (total: 5.663 ms)
+[2025.12.08-11.19.53:614][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.19.53:614][362]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.19.53:620][362]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.19.53:622][362]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.320 ms (total: 10.602 ms)
+[2025.12.08-11.19.53:622][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007190s)
+[2025.12.08-11.19.53:622][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.007215s)
+[2025.12.08-11.19.53:645][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.08-11.19.53:646][362]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.19.53:648][362]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.19.53:648][362]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.19.53:648][362]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.19.53:648][362]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.19.53:649][362]LogWorldPartition: Display: WorldPartition initialize took 1.482 ms (total: 182.597 ms)
+[2025.12.08-11.19.53:650][362]LogPlayLevel: PIE: World Init took: (0.003059s)
+[2025.12.08-11.19.53:650][362]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.08-11.19.53:650][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.19.53:650][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.19.53:650][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.19.53:650][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.19.53:650][362]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.19.53:651][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.19.53:651][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.19.53:651][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.19.53:651][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.19.53:651][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.19.53:651][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.19.53:652][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.19.53:673][362]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.19.53:675][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.19.53:675][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.19.53:675][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.19.53:675][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.08-11.19.53:675][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.08-11.19.53:677][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.08-11.19.53:677][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.08-11.19.53:677][362]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.08-11.19.53:677][362]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.19.53:677][362]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.08-11.19.53:700][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.19.53:700][362]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.19.53:703][362]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.49.53
+[2025.12.08-11.19.53:703][362]LogWorld: Bringing up level for play took: 0.003268
+[2025.12.08-11.19.53:706][362]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.12.08-11.19.53:710][362]PIE: Server logged in
+[2025.12.08-11.19.53:711][362]PIE: Play in editor total start time 0.098 seconds.
+[2025.12.08-11.19.53:771][363]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.19.57:073][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.19.57:076][606]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.19.57:076][606]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.19.57:115][606]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.19.57:117][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.19.57:118][606]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.19.57:120][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.19.57:127][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.19.57:156][606]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.08-11.19.57:156][606]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.08-11.19.57:157][606]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.08-11.19.57:164][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.12.08-11.19.57:222][607]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.12.08-11.20.17:718][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.12.08-11.20.18:742][197]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.20.18:748][197]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.20.18:748][197]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.20.18:748][197]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 638 us (total: 6.302 ms)
+[2025.12.08-11.20.18:748][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.20.18:748][197]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.20.18:755][197]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.20.18:756][197]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.274 ms (total: 11.876 ms)
+[2025.12.08-11.20.18:756][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007107s)
+[2025.12.08-11.20.18:756][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.007132s)
+[2025.12.08-11.20.18:780][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.12.08-11.20.18:781][197]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.20.18:783][197]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.20.18:783][197]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.20.18:783][197]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.20.18:783][197]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.20.18:784][197]LogWorldPartition: Display: WorldPartition initialize took 1.537 ms (total: 184.135 ms)
+[2025.12.08-11.20.18:784][197]LogPlayLevel: PIE: World Init took: (0.003121s)
+[2025.12.08-11.20.18:785][197]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.20.18:785][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.20.18:785][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.20.18:785][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.20.18:785][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.20.18:785][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.20.18:787][197]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.20.18:810][197]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.20.18:810][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.20.18:810][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.20.18:810][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.20.18:811][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.08-11.20.18:811][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.08-11.20.18:813][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.08-11.20.18:813][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.08-11.20.18:813][197]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.08-11.20.18:813][197]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.20.18:813][197]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.08-11.20.18:838][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.20.18:838][197]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.20.18:842][197]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.50.18
+[2025.12.08-11.20.18:843][197]LogWorld: Bringing up level for play took: 0.003756
+[2025.12.08-11.20.18:845][197]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.12.08-11.20.18:850][197]PIE: Server logged in
+[2025.12.08-11.20.18:852][197]PIE: Play in editor total start time 0.104 seconds.
+[2025.12.08-11.20.18:911][198]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.20.21:913][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.20.21:913][423]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.20.21:914][423]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.20.21:940][423]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.20.21:941][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.20.21:941][423]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.20.21:942][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.20.21:947][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.20.21:972][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-11.20.21:972][423]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.08-11.20.21:972][423]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.12.08-11.20.21:974][423]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.12.08-11.20.21:982][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.12.08-11.20.22:005][424]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.12.08-11.20.39:406][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.20.39:441][ 42]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.20.39:441][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.20.39:441][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.20.39:444][ 42]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.20.39:444][ 42]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTable19A9EC6C4134785291CD47BE20A4BCAC.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.20.39:456][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.277 ms (total: 2.18 sec)
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: Enabled validators:
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.20.39:488][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.20.39:488][ 42]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.20.41:532][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-11.20.41:539][283]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-11.20.41:539][283]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.12.08-11.20.41:540][283]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 635 us (total: 6.937 ms)
+[2025.12.08-11.20.41:540][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-11.20.41:540][283]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.20.41:546][283]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-11.20.41:547][283]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.356 ms (total: 13.233 ms)
+[2025.12.08-11.20.41:547][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007143s)
+[2025.12.08-11.20.41:547][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.007167s)
+[2025.12.08-11.20.41:571][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.08-11.20.41:572][283]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.08-11.20.41:573][283]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-11.20.41:573][283]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-11.20.41:574][283]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-11.20.41:574][283]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-11.20.41:575][283]LogWorldPartition: Display: WorldPartition initialize took 1.532 ms (total: 185.668 ms)
+[2025.12.08-11.20.41:575][283]LogPlayLevel: PIE: World Init took: (0.003157s)
+[2025.12.08-11.20.41:576][283]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-11.20.41:576][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-11.20.41:576][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-11.20.41:576][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-11.20.41:576][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-11.20.41:576][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-11.20.41:578][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-11.20.41:601][283]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.12.08-11.20.41:601][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-11.20.41:601][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-11.20.41:601][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-11.20.41:601][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.08-11.20.41:601][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.08-11.20.41:604][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.08-11.20.41:604][283]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.08-11.20.41:604][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.08-11.20.41:604][283]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_FirstPerson'.
+[2025.12.08-11.20.41:604][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.08-11.20.41:624][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.20.41:624][283]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-11.20.41:627][283]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.12.08-16.50.41
+[2025.12.08-11.20.41:627][283]LogWorld: Bringing up level for play took: 0.003629
+[2025.12.08-11.20.41:630][283]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.12.08-11.20.41:635][283]PIE: Server logged in
+[2025.12.08-11.20.41:636][283]PIE: Play in editor total start time 0.097 seconds.
+[2025.12.08-11.20.41:696][284]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-11.20.45:720][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-11.20.45:720][582]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.12.08-11.20.45:721][582]LogSlate: Window 'ZombieZ Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.08-11.20.45:743][582]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-11.20.45:744][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.20.45:744][582]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.08-11.20.45:745][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-11.20.45:750][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-11.20.45:777][582]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.08-11.20.45:777][582]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.12.08-11.20.45:778][582]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.12.08-11.20.45:786][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.12.08-11.20.45:840][583]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.12.08-11.21.21:599][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.21.21:637][738]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.12.08-11.21.21:744][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.12.08-11.21.21:744][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.12.08-11.21.21:792][738]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.12.08-11.21.21:793][738]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/BP_FirstPersonCharacterC3BDEF094528318ACF5317B908ABD829.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.12.08-11.21.21:805][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.958 ms (total: 2.39 sec)
+[2025.12.08-11.21.21:848][738]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.21.21:848][738]LogContentValidation: Enabled validators:
+[2025.12.08-11.21.21:848][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.21.21:848][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.21.21:848][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.21.21:848][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.21.21:848][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.21.21:848][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.21.21:848][738]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.12.08-11.21.24:691][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-11.21.24:721][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/DT_WeaponTable] ([1] browsable assets)...
+[2025.12.08-11.21.24:721][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/DT_WeaponTable]
+[2025.12.08-11.21.24:721][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/DT_WeaponTable" FILE="../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset" SILENT=true
+[2025.12.08-11.21.24:722][979]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/DT_WeaponTable
+[2025.12.08-11.21.24:723][979]LogSavePackage: Moving '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Saved/DT_WeaponTable65899EF741D8359C211B63BE21AE7586.tmp' to '../../../../Unreal_Projects_Part2/Project_ZombieZ/ZombieZ/Content/FirstPerson/Blueprints/DT_WeaponTable.uasset'
+[2025.12.08-11.21.24:732][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.055 ms (total: 2.43 sec)
+[2025.12.08-11.21.24:775][979]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-11.21.24:775][979]LogContentValidation: Enabled validators:
+[2025.12.08-11.21.24:775][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-11.21.24:775][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-11.21.24:775][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-11.21.24:775][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-11.21.24:775][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-11.21.24:775][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-11.21.24:775][979]AssetCheck: /Game/FirstPerson/Blueprints/DT_WeaponTable Validating asset
+[2025.12.08-11.21.27:767][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.08-11.23.11:584][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19682.662109
+[2025.12.08-11.23.13:260][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-11.23.13:260][949]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19683.998047, Update Interval: 347.876221
